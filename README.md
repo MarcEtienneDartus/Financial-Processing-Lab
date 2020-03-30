@@ -3,6 +3,10 @@
 ## Introduction 📚
 > This repo is the lab part of [Financial-Processing](https://github.com/MarcEtienneDartus/Financial-Processing) 📖.
 
+This course aims to complement traditional signal processing courses. It covers the entire introduction to signal processing, from defining a signal, to intermediate concepts, such as filtering.
+
+The aim of this course, as a complement, is not to dig deep in the theoretical and "boring" part of the different concepts. Rather, it aims to give meaning and illustrations to the concepts of signal processing.
+
 To better illustrate the concepts of signal processing, what's better than applications ?!
 
 Theses applications simply allow you to exercise signal processing on financial data. It goes from the very basics analysis to more complex ones.
